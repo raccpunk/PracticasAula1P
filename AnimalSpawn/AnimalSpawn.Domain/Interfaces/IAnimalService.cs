@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace AnimalSpawn.Domain.Interfaces
 {
-    public interface IAnimalRepository
+    public interface IAnimalService
     {
-        Task<IEnumerable<Animal>> GetAnimals();
+        IEnumerable<Animal> GetAnimals();
+
         Task<Animal> GetAnimal(int id);
         Task AddAnimal(Animal animal);
-        Task<bool> UpdateAnimal(Animal animal);
-        Task<bool> DeleteAnimal(int id);
-
+        Task UpdateAnimal(Animal animal);
+        Task DeleteAnimal(int id);
     }
 }

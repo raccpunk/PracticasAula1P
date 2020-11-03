@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj": {}
+    "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj": {
+    "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj",
+        "projectUniqueName": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj",
         "projectName": "AnimalSpawn.Api",
-        "projectPath": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj",
-        "packagesPath": "C:\\Users\\CASA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Api\\obj\\",
+        "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj",
+        "packagesPath": "C:\\Users\\racc2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\CASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\racc2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -31,11 +27,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
-                "projectPath": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
+              "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Application\\AnimalSpawn.Application.csproj": {
+                "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Application\\AnimalSpawn.Application.csproj"
               },
-              "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj"
+              "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+                "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
+              },
+              "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj"
               }
             }
           }
@@ -78,26 +77,84 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+    "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Application\\AnimalSpawn.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
-        "projectName": "AnimalSpawn.Domain",
-        "projectPath": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
-        "packagesPath": "C:\\Users\\CASA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Domain\\obj\\",
+        "projectUniqueName": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Application\\AnimalSpawn.Application.csproj",
+        "projectName": "AnimalSpawn.Application",
+        "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Application\\AnimalSpawn.Application.csproj",
+        "packagesPath": "C:\\Users\\racc2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\CASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\racc2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+                "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
+        "projectName": "AnimalSpawn.Domain",
+        "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
+        "packagesPath": "C:\\Users\\racc2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\racc2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -134,26 +191,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj": {
+    "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
         "projectName": "AnimalSpawn.Infraestructure",
-        "projectPath": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\CASA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\racc2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\CASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\racc2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -165,8 +218,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
-                "projectPath": "C:\\Users\\CASA\\Music\\Cuarto Cuatrimestre\\Aplicaciones web orientadas a servicios\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
+              "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+                "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
               }
             }
           }
@@ -217,7 +270,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
