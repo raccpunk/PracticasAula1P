@@ -1,0 +1,15 @@
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.deps.json
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.runtimeconfig.json
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.runtimeconfig.dev.json
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.dll
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.pdb
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csprojAssemblyReference.cache
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.AssemblyInfo.cs
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csproj.CopyComplete
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.dll
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.pdb
+C:\Users\racc2\Videos\AnimalSpawn-master\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.genruntimeconfig.cache
