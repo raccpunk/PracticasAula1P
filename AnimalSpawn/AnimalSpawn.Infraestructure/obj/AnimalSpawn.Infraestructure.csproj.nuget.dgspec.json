@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj": {}
+    "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+    "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
         "projectName": "AnimalSpawn.Domain",
-        "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
+        "projectPath": "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
         "packagesPath": "C:\\Users\\racc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\obj\\",
+        "outputPath": "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\racc2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj": {
+    "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
         "projectName": "AnimalSpawn.Infraestructure",
-        "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\racc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\racc2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
-                "projectPath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
+              "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+                "projectPath": "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
               }
             }
           }

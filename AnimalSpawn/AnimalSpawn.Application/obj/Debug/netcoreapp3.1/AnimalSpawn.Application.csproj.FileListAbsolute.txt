@@ -10,3 +10,15 @@ C:\Users\rojas\Documents\GitHub\4C_GRB_PA2P\AnimalSpawn\AnimalSpawn.Application\
 C:\Users\rojas\Documents\GitHub\4C_GRB_PA2P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.csproj.CoreCompileInputs.cache
 C:\Users\rojas\Documents\GitHub\4C_GRB_PA2P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.dll
 C:\Users\rojas\Documents\GitHub\4C_GRB_PA2P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.pdb
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\bin\Debug\netcoreapp3.1\AnimalSpawn.Application.deps.json
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\bin\Debug\netcoreapp3.1\AnimalSpawn.Application.dll
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\bin\Debug\netcoreapp3.1\AnimalSpawn.Application.pdb
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.csprojAssemblyReference.cache
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.AssemblyInfoInputs.cache
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.AssemblyInfo.cs
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.csproj.CoreCompileInputs.cache
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.csproj.CopyComplete
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.dll
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Application\obj\Debug\netcoreapp3.1\AnimalSpawn.Application.pdb

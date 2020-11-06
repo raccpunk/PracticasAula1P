@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b2PWQ3NYMTxjtwskKDvuIKQmrNpMKqjiAu8p2iJATw3PrJGMbsmAp8ZLQAkIGbsIJTk8RGIrgXlErLrApGLObg==",
+  "dgSpecHash": "8Io0/oLXJ9ldModsKhPQlH4XORRdj5ggLE2P0Pt49saHzvCeFSB2x6oVPDlWjqTewJyMC+kLeIMROM/3JlKrHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\racc2\\Videos\\4C_GRB_PA2P-main\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\racc2\\Documents\\GitHub\\PracticasAula1P\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\racc2\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\racc2\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

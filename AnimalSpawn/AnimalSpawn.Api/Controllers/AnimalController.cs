@@ -6,6 +6,7 @@ using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Threading.Tasks;
 
 namespace AnimalSpawn.Api.Controllers
@@ -22,11 +23,12 @@ namespace AnimalSpawn.Api.Controllers
             this._mapper = mapper;
         }
         [HttpGet]
+        [ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(ApiResponse<IEnumerable<AnimalResponseDto>>))]
+        [ProducesResponseType((int)HttpStatusCode.BadRequest, Type = typeof(ApiResponse<IEnumerable<AnimalResponseDto>>))]
         public IActionResult Get()
         {
             var animals = _service.GetAnimals();
-            var animalsDto = _mapper.Map<IEnumerable<Animal>,
-            IEnumerable<AnimalResponseDto>>(animals);
+            var animalsDto = _mapper.Map<IEnumerable<Animal>, IEnumerable<AnimalResponseDto>>(animals);
             var response = new ApiResponse<IEnumerable<AnimalResponseDto>>(animalsDto);
             return Ok(response);
         }

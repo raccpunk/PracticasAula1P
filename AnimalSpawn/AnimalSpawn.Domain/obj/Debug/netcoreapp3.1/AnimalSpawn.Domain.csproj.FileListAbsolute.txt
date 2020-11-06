@@ -16,3 +16,12 @@ C:\Users\rojas\Documents\GitHub\4C_GRB_PA2P\AnimalSpawn\AnimalSpawn.Domain\obj\D
 C:\Users\rojas\Documents\GitHub\4C_GRB_PA2P\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
 C:\Users\rojas\Documents\GitHub\4C_GRB_PA2P\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
 C:\Users\rojas\Documents\GitHub\4C_GRB_PA2P\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.deps.json
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csprojAssemblyReference.cache
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfoInputs.cache
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfo.cs
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\racc2\Documents\GitHub\PracticasAula1P\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb

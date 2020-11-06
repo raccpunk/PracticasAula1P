@@ -11,9 +11,7 @@ namespace AnimalSpawn.Application.Mappings
     {
         public AutoMapperProfile()
         {
-            CreateMap<AnimalRequestDto, RfidTag>()
-             .ForMember(destination => destination.Tag, act => act.MapFrom(source =>
-             source.RfidTag));
+            
             CreateMap<AnimalRequestDto, Animal>()
              .ForMember(destination => destination.RfidTag, act => act.MapFrom(source => source))
              .AfterMap(
@@ -22,7 +20,12 @@ namespace AnimalSpawn.Application.Mappings
                  destination.CreatedBy = 3;
                  destination.Status = true;
              }));
+            CreateMap<AnimalRequestDto, RfidTag>()
+             .ForMember(destination => destination.Tag, act => act.MapFrom(source =>
+             source.RfidTag));
             CreateMap<AnimalResponseDto, Animal>();
+            CreateMap<AnimalRequestDto, RfidTag>();
+
         }
     }
 }
